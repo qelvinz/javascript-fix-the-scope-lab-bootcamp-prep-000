@@ -1,11 +1,11 @@
 var  animal = 'dog'
 
-function myAnimal() 
+function myAnimal()
 {
   return animal
 }
 
-function yourAnimal() 
+function yourAnimal()
 {
   // How can we make sure that this function
   // and the above function both pass?
@@ -14,7 +14,7 @@ function yourAnimal()
   return animal
 }
 
-function add2(n) 
+function add2(n)
 {
   // Feel free to move things around!
   const two = 2
